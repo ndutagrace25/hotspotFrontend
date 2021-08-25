@@ -1,0 +1,150 @@
+<svg id="_1" data-name="1" xmlns="http://www.w3.org/2000/svg" width="1068" height="684" viewBox="0 0 1068 684">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 8px;
+        stroke-dasharray: 32 16;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        fill: #f4b334;
+      }
+
+      .cls-3 {
+        font-size: 36px;
+      }
+
+      .cls-3, .cls-4, .cls-6, .cls-7, .cls-8 {
+        font-family: Montserrat;
+      }
+
+      .cls-3, .cls-4 {
+        font-weight: 600;
+      }
+
+      .cls-4 {
+        font-size: 24px;
+      }
+
+      .cls-4, .cls-6, .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-5, .cls-9 {
+        stroke: #c8c6c3;
+        stroke-width: 12px;
+      }
+
+      .cls-6 {
+        font-size: 44px;
+        font-weight: 800;
+      }
+
+      .cls-6, .cls-8 {
+        font-style: italic;
+      }
+
+      .cls-7 {
+        font-size: 40px;
+      }
+
+      .cls-7, .cls-8 {
+        font-weight: 700;
+      }
+
+      .cls-8 {
+        font-size: 18px;
+      }
+
+      .cls-9 {
+        fill: #431c55;
+      }
+
+      .cls-10 {
+        fill: #418ba1;
+      }
+
+      .cls-11 {
+        fill: #792979;
+      }
+
+      .cls-12 {
+        fill: #013675;
+      }
+
+      .cls-13 {
+        fill: #892312;
+      }
+    </style>
+  </defs>
+  <rect id="border" class="cls-1" width="1068" height="684" rx="40" ry="40"/>
+  <rect id="hr" class="cls-2" x="38" y="73" width="993" height="3" rx="1.5" ry="1.5"/>
+  <text id="M-PESA_BUY_TOP-UP_OR_RENEW_BELOW" data-name="M-PESA BUY, TOP-UP OR RENEW BELOW" class="cls-3" x="175" y="57">M-PESA BUY, TOP-UP OR RENEW BELOW</text>
+  <text id="VALIDITY_30_DAYS" data-name="VALIDITY 30 DAYS" class="cls-4" x="418" y="109">VALIDITY 30 DAYS</text>
+  <g id="bg">
+    <circle id="coin" class="cls-5" cx="148" cy="247" r="110"/>
+  </g>
+  <text id="_50MB" data-name="50MB" class="cls-6" x="80.551" y="291.062">50MB</text>
+  <g id="price">
+    <text id="_10_-" data-name="10/-" class="cls-7" x="112.841" y="241.02">10/-</text>
+    <text id="KES" class="cls-8" x="111.841" y="205.02">KES</text>
+  </g>
+  <g id="bg-2" data-name="bg">
+    <circle id="coin-2" data-name="coin" class="cls-9" cx="406" cy="247" r="110"/>
+  </g>
+  <text id="_150MB" data-name="150MB" class="cls-6" x="326.552" y="291.062">150MB</text>
+  <g id="price-2" data-name="price">
+    <text id="_20_-" data-name="20/-" class="cls-7" x="366.841" y="241.02">20/-</text>
+    <text id="KES-2" data-name="KES" class="cls-8" x="365.841" y="205.02">KES</text>
+  </g>
+  <g id="bg-3" data-name="bg">
+    <circle id="coin-3" data-name="coin" class="cls-10" cx="664" cy="247" r="110"/>
+  </g>
+  <text id="_500MB" data-name="500MB" class="cls-6" x="581.552" y="291.062">500MB</text>
+  <g id="price-3" data-name="price">
+    <text id="_50_-" data-name="50/-" class="cls-7" x="624.841" y="241.02">50/-</text>
+    <text id="KES-3" data-name="KES" class="cls-8" x="623.841" y="205.02">KES</text>
+  </g>
+  <g id="bg-4" data-name="bg">
+    <circle id="coin-4" data-name="coin" class="cls-11" cx="921" cy="247" r="110"/>
+  </g>
+  <text id="_1.2GB" data-name="1.2GB" class="cls-6" x="854.552" y="291.062">1.2GB</text>
+  <g id="price-4" data-name="price">
+    <text id="_100_-" data-name="100/-" class="cls-7" x="871.84" y="241.02">100/-</text>
+    <text id="KES-4" data-name="KES" class="cls-8" x="870.841" y="205.02">KES</text>
+  </g>
+  <g id="bg-5" data-name="bg">
+    <circle id="coin-5" data-name="coin" class="cls-12" cx="148" cy="531" r="110"/>
+  </g>
+  <text id="_4GB" data-name="4GB" class="cls-6" x="97.551" y="575.062">4GB</text>
+  <g id="price-5" data-name="price">
+    <text id="_200_-" data-name="200/-" class="cls-7" x="94.841" y="525.02">200/-</text>
+    <text id="KES-5" data-name="KES" class="cls-8" x="93.841" y="489.02">KES</text>
+  </g>
+  <g id="bg-6" data-name="bg">
+    <circle id="coin-6" data-name="coin" class="cls-13" cx="406" cy="531" r="110"/>
+  </g>
+  <text id="_12GB" data-name="12GB" class="cls-6" x="344.552" y="575.062">12GB</text>
+  <g id="price-6" data-name="price">
+    <text id="_500_-" data-name="500/-" class="cls-7" x="352.841" y="525.02">500/-</text>
+    <text id="KES-6" data-name="KES" class="cls-8" x="351.841" y="489.02">KES</text>
+  </g>
+  <g id="bg-7" data-name="bg">
+    <circle id="coin-7" data-name="coin" class="cls-11" cx="664" cy="531" r="110"/>
+  </g>
+  <text id="_30GB" data-name="30GB" class="cls-6" x="600.551" y="575.062">30GB</text>
+  <g id="price-7" data-name="price">
+    <text id="_1000_-" data-name="1000/-" class="cls-7" x="600.841" y="525.02">1000/-</text>
+    <text id="KES-7" data-name="KES" class="cls-8" x="599.841" y="489.02">KES</text>
+  </g>
+  <g id="bg-8" data-name="bg">
+    <circle id="coin-8" data-name="coin" class="cls-5" cx="921" cy="531" r="110"/>
+  </g>
+  <text id="_80GB" data-name="80GB" class="cls-6" x="855.551" y="575.062">80GB</text>
+  <g id="price-8" data-name="price">
+    <text id="_2000_-" data-name="2000/-" class="cls-7" x="853.84" y="525.02">2000/-</text>
+    <text id="KES-8" data-name="KES" class="cls-8" x="852.841" y="489.02">KES</text>
+  </g>
+</svg>
